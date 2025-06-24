@@ -282,7 +282,7 @@ border: #f12b38 4px solid;
     padding: 0.3rem 0.5rem;
     border-radius: 50%;
     background: rgb(231, 27, 61);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+    box-shadow: 0 2px 8px rgba(226, 11, 11, 0.1);
     transition: transform 0.2s, box-shadow 0.2s, opacity 0.2s, pink 0.2s;
     color: #fafafa;
     /* border: 2px solid pink; */
